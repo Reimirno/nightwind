@@ -227,7 +227,10 @@ export default function Navbar() {
 
 </details>
 
-
+<details>
+  <summary><a href="https://astro.build/">Astro<a/></summary>
+   See an example of integrating Nightwind with Astro <a href="https://github.com/Reimirno/astro-nightwind">here<a/>. Or, <a href="https://stackblitz.com/~/github.com/Reimirno/astro-nightwind">open this example on Stackblitz</a> to see it in action!
+</details>
 <details>
   <summary>Pure JavaScript or Alpine.js</summary>
   
